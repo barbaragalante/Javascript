@@ -1,0 +1,43 @@
+let aluna = {
+    "nome": "barbara"
+}
+
+aluna 
+
+typeof aluna 
+
+let profe = {
+    "materia": "JS"
+}
+
+profe
+
+profe.idade = 25
+
+profe
+
+profe.textContent 
+
+profe.ensinar = function () { console.log ("aluna aprendeu")}
+
+profe.ensinar 
+
+profe.ensinar ()
+
+let morcego = {
+    "acao": "voar"
+}
+
+morcego
+
+morcego.acao = voar
+
+
+
+morcego.textContent
+
+morcego.voar = function () { console.log ("morcego voar")}
+
+morcego.voar 
+
+morcego.voar ()

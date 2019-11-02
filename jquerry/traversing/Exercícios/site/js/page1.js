@@ -1,0 +1,6 @@
+$(function(){ 
+$("img").filter('[alt]')
+})
+   
+   
+    
